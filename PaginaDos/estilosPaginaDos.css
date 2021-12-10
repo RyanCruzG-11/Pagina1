@@ -1,0 +1,157 @@
+div#contenedorArriba {
+	background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 8%, rgba(209,209,209,1) 52%, rgba(255,255,255,1) 100%);
+	height: 150px;
+	margin: -20px 0px 0px -10px;
+}
+
+div#Simbolo {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 100px;
+	height: 100px;
+	margin: -120px 0px 0px 100px;
+	
+}
+
+div#Nombre {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 550px;
+	height: 50px;
+	margin: -75px 0px 0px 250px;
+	
+}
+
+div#Chile1 {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 120px;
+	margin: -85px 0px 0px 1100px;
+	
+}
+
+div#Chile3 {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 120px;
+	margin: -120px 0px 0px 1000px;
+	
+}
+
+div#Centro2 {
+	background: linear-gradient(to right, rgba(255,175,75,1) 0%, rgba(255,175,75,1) 45%, rgba(255,146,10,1) 100%);
+	width: 1515px;
+	height: 1200px;
+	margin: 0px 0px 0px -10px;
+	
+ }
+
+ div#Bebidas {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 40px;
+	margin: -1135px 0px 0px 50px;
+	
+}
+
+div#Refill {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: 30px 0px 0px 50px;
+	
+}
+
+div#Cerveza {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 350px;
+	
+}
+
+div#Malteadas {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 650px;
+	
+}
+
+div#Jugo {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 950px;
+	
+}
+
+div#Aguas {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 1250px;
+	
+}
+
+div#Comidas {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 40px;
+	margin: 100px 0px 0px 50px;
+	
+}
+
+div#Ramen {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: 30px 0px 0px 50px;
+	
+}
+
+div#Mole {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 350px;
+	
+}
+
+div#Torta {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 650px;
+	
+}
+
+div#Enchiladas {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 950px;
+	
+}
+
+div#Costillas {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 1250px;
+	
+}
+
+div#Alitas {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: 30px 0px 0px 50px;
+	
+}
+
+div#ChileRelleno {
+	background: linear-gradient(to bottom, rgba(235,179,187,1) 0%, rgba(227,41,75,1) 71%, rgba(255,130,157,1) 100%);
+	width: 200px;
+	height: 250px;
+	margin: -250px 0px 0px 350px;
+	
+}
